@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WW9Y1uC0Tog=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AvikshitTrivedi\\OneDrive - CG Infinity\\Documents\\LWC assgn\\LWC(2)\\Encryption\\encryption\\DbInspect\\DbInspect.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\microsoft.data.sqlite\\9.0.8\\microsoft.data.sqlite.9.0.8.nupkg.sha512",
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.8\\microsoft.data.sqlite.core.9.0.8.nupkg.sha512",
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\AvikshitTrivedi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
